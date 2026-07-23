@@ -9,7 +9,7 @@ const basicConfig = {
 		name: '七海qwq',
 		avatar: 'https://qihaiqwq-1317599563.cos.ap-chengdu.myqcloud.com/138101128_p0.png',
 		email: '2756951158@qq.com',
-		homepage: 'https://www.q1haiqwq.online',
+		homepage: 'https://blog.q1haiqwq.online',
 	},
 	copyright: {
 		abbr: 'CC BY-NC-SA 4.0',
@@ -20,7 +20,7 @@ const basicConfig = {
 	language: 'zh-CN',
 	timeEstablished: '2026-07-22',
 	timeZone: 'Asia/Shanghai',
-	url: 'https://www.q1haiqwq.online/',
+	url: 'https://blog.q1haiqwq.online/',
 	defaultCategory: '未分类',
 }
 
@@ -83,7 +83,7 @@ const blogConfig = {
 
 	/** 自己部署的 Twikoo 服务 */
 	twikoo: {
-		envId: 'https://twikoo-qihaiqwqa.vercel.app',
+		envId: 'https://twikoo-theta-brown.vercel.app',
 		preload: '',
 	},
 }
